@@ -1,6 +1,8 @@
 <h1 align="center">Style Transfer using CNN:</h1>
 
 ## Follow the steps 
+**Downloading and Preparing Dataset**
+
 ```bash
 !wget http://images.cocodataset.org/zips/test2017.zip
 !mkdir './dataset'
@@ -10,6 +12,8 @@ Downloads the COCO dataset's test set, which is commonly used for computer visio
 
 Creates a directory named 'dataset' and extracts the contents of the downloaded ZIP file into it.
 
+**Downloading Pre-trained Model**
+
 ```bash
 !mkdir ./checkpoints
 !wget -q -O 'best_model.pth' https://www.dropbox.com/s/7xvmmbn1bx94exz/best_model.pth?dl=1
@@ -18,6 +22,8 @@ Creates a directory named 'dataset' and extracts the contents of the downloaded 
 Creates a directory named 'checkpoints.'
 
 Downloads a pre-trained model named 'best_model.pth' from Dropbox and saves it in the 'checkpoints' directory.
+
+**Creating Directories for Content and Style Images**
 
 
 ```bash
