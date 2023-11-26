@@ -1,1 +1,1 @@
-# dashtoon-Gen-AI
+# Dashtoon-Gen-AI
