@@ -1,4 +1,4 @@
-<h1 align="center">Neural Style Transfer using CNN:</h1>
+<h1 align="center">Style Transfer using CNN:</h1>
 
 
 ## Follow the steps 
