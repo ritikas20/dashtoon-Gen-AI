@@ -35,3 +35,14 @@ Downloads a pre-trained model named 'best_model.pth' from Dropbox and saves it i
 Creates directories named 'content' and 'style' to store input images.
 
 Downloads a content image ('japanese_garden.jpg') and a style image ('picasso_selfportrait.jpg') from GitHub and saves them in the corresponding directories.
+
+**Sample Result**
+
+Input:
+
+![Dog-Pre](https://github.com/ritikas20/dashtoon-Gen-AI/assets/108460591/1cfafad9-7767-44cb-8e2c-f96fe4b22ce8)
+
+Result:
+
+![Dog-after](https://github.com/ritikas20/dashtoon-Gen-AI/assets/108460591/01cd4ffd-701b-462a-ab83-c02663c9a5c3)
+
